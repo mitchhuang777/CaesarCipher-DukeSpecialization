@@ -106,6 +106,10 @@ Note this file has words that are:
 
 > smallHamlet.txt
 
+> romeo.txt
+
+> lotsOfWords.txt
+
 ## Assignment 2:  Caesar Cipher Two Keys Decrypt
 You should start by writing the decryption method explained in the lesson that decrypts a message that was encrypted with one key, using statistical letter frequencies of English text. Then you will add code to be able to decrypt a message that was encrypted with two keys, using ideas from the single key decryption method and the encryption with two keys method from the program you wrote in the last lesson.
 
