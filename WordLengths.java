@@ -42,7 +42,7 @@ public class WordLengths {
     public static void testCountWordLengths() {
         try {
             /* Read message from file */
-            File file = new File("CharacterStuff\\errors.txt");
+            File file = new File("C:\\Users\\MitchHuang\\Desktop\\Project\\Duke-univerity\\course3\\CharacterStuff\\CaesarCipher\\romeo.txt");
             BufferedReader br = new BufferedReader(new FileReader(file));
             String message = "";
             String line;
